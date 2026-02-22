@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(to right,  rgb(252, 76, 76),  pink, rgba(241, 176, 187, 0.959), rgb(255, 237, 237)); 
+    color: black;
+   /* background-image: url("camsnoop.jpg");
+    background-repeat: no-repeat;
+    background-position: right left; */
+    place-items: center;
+}
+h1{
+    text-align: center;
+}
+#intro{
+    padding-left: 6px;
+    padding-right: 6px;
+    border-left: 2px solid rgb(55, 0, 0);
+    border-right: 2px solid rgb(55, 0, 0);
+    text-align: center;
+}
+#ask{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+.button input{
+    text-align: center;
+}
+.buttons{
+    background-color: rgb(243, 205, 205);
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 50px;
+}
+#inst{
+    text-align: center;
+}
+.image{
+    text-align: center;
+    
+}
+.image:hover{
+    filter: drop-shadow(0 0 5em #ff0101);
+}
+.aud{
+   justify-content: center;
+   display: grid;
+   opacity: 70;
+   border-radius: 50px;
+   
+}
+#emoti{
+   text-align: center;
+}
